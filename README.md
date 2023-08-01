@@ -4,7 +4,7 @@
 This project aims to build a machine learning model for detecting fake news articles from a dataset containing both fake and true news. Fake news detection is a crucial task in today's information age to ensure the dissemination of accurate information and prevent the spread of misinformation.
 
 ## Dataset
-The dataset used in this project consists of news articles with features like title, text, subject, date, and label. The label represents whether a news article is fake (1) or true (0).
+The dataset used in this project is from Kaggle which consists of news articles with features like title, text, subject, date, and label. The label represents whether a news article is fake (1) or true (0).
 
 ## Methodology
 Data Preprocessing: The textual features (title and text) are preprocessed by removing stopwords, special characters, and converting the text to lowercase.
