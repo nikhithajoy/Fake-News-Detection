@@ -1,4 +1,4 @@
-# CodeClauseInternship_Fake_News_Detection
+# Fake News Detection
 
 ## Overview
 This project aims to build a machine learning model for detecting fake news articles from a dataset containing both fake and true news. Fake news detection is a crucial task in today's information age to ensure the dissemination of accurate information and prevent the spread of misinformation.
